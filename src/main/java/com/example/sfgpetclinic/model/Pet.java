@@ -10,7 +10,6 @@ public class Pet {
     }
 
     public Owner getOwner() {
-        int i;
         return owner;
     }
 
